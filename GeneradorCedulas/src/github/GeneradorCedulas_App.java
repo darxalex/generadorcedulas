@@ -27,6 +27,7 @@ public class GeneradorCedulas_App {
         System.out.println("Bienvenid@ al Generador de cédulas ecuatorianas  Por favor, ingrese la \n"
 							+ "ubicación donde quiera guardar el diccionario generado y asegurese \n"
         					+ "de que tenga permisos de escritura: \n"
+							+ " Ejemplo: C:/Users/MiUsuario/Documentos (en Windows) \n"
 							+ " Ejemplo: /home/MiUsuario/Documentos (en Linux): ");
         
         
